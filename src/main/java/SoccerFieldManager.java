@@ -17,7 +17,7 @@ public class SoccerFieldManager {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-     Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         FieldService fieldService = new FieldService();
         BookingService bookingService = new BookingService();
         ServiceManager serviceManager = new ServiceManager();

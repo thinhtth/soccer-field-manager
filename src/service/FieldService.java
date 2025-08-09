@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * @author Admin
  */
 public class FieldService {
-     private ArrayList<Field> fields = new ArrayList<>();
+    private ArrayList<Field> fields = new ArrayList<>();
 
     public void addField(Field field) {
         fields.add(field);

@@ -14,6 +14,13 @@ public class Field {
     private String status; // Trạng thái: "Available", "Booked"
     private double pricePerHour;
 
+    public Field(String type, String status, double pricePerHour) {
+        this.id = String.valueOf(System.currentTimeMillis());
+        this.type = type;
+        this.status = status;
+        this.pricePerHour = pricePerHour;
+    }
+
     public Field(String id, String type, String status, double pricePerHour) {
         this.id = id;
         this.type = type;
