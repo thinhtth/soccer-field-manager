@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Admin
  */
-public class main {
+public class SoccerFieldManager {
 
     /**
      * @param args the command line arguments
