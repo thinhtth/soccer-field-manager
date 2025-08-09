@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package phanmemquanlysanbongda_tranthaihuuthinh;
+package main.java;
 import model.*;
 import service.*;
 import java.time.LocalDateTime;
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Admin
  */
-public class Phanmemquanlysanbongda_TranThaiHuuThinh {
+public class main {
 
     /**
      * @param args the command line arguments
